@@ -130,7 +130,7 @@
 <br/>
 
 6. Paste 2vxsx-fae in Check account token balance & it should show the balance as 10,000 VO
-  <img src="./readme/21.png" />
+   <img src="./readme/21.png" />
 <br/>
 
 ## 4. Creating NFT for Testing
@@ -177,7 +177,7 @@
   <img src="./readme/28.png" />
 <br/>
 
-## 4. Testing the NFT
+## 5. Testing the NFT
 
 1. Go to http://localhost:8080 & the following page should show
    <img src="./readme/29.png" />
@@ -202,7 +202,7 @@
 <br/>
 
 6. Go back to the discover page & you should see your NFT listed with it's price
-  <img src="./readme/35.png" />
+   <img src="./readme/35.png" />
 <br/>
 
 7. You can also go the Minter section & Mint some images present in the CryptoDunks folder & sell them
