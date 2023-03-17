@@ -3,6 +3,7 @@
 <b>You must first have the necessary setup required to run the following project, whose steps can be followed from here :-</b>
 
 <a href="https://docs.google.com/document/d/e/2PACX-1vTNicu-xuf4EiLAehHIqgfpjAnPjzqMGT-xpZVvYaAWNyvzYK_Ceve_me4PVRIxpzH7ea5PAX9NxGwY/pub">Setup for Windows</a>
+<br/>
 <a href="https://docs.google.com/document/d/e/2PACX-1vTSgoWcVvuMW4Aa78MyqeK0_ZRl_MaV7rS-tdhya3jlPbSSbxczQFCohrGf87T4F7tJKXwTjT2z_QSq/pub">Setup for MAC</a>
 
 <hr>
