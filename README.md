@@ -174,7 +174,7 @@
 <br/>
 
 7. Now, Go back to the window where opendD folder is present & go to src/opend_assets/src/components/item.jsx & paste your token cannister you obtained from previous step on line 165
-  <img src="./readme/28.png" />
+   <img src="./readme/28.png" />
 <br/>
 
 ## 5. Testing the NFT
