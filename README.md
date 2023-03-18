@@ -42,7 +42,7 @@
    <img src="./readme/5.png" />
 <br/>
 
-5. Copy the principal id obtained in previous step & paste it in the "YOUR-PRINCIPAL-ID" section of the following command and paste the command in your terminal to deploy your NFT cannister
+5. Copy the principal id obtained in previous step & paste it in the "YOUR-PRINCIPAL-ID" section of the following command and paste the command in your terminal to deploy your NFT canister
    ```
      dfx deploy --argument='("CryptoDunks #123", principal "<YOUR-PRINCIPAL-ID>", (vec {137; 80; 78; 71; 13; 10; 26; 10; 0; 0; 0; 13; 73; 72; 68; 82; 0; 0; 0; 10; 0; 0; 0; 10; 8; 6; 0; 0; 0; 141; 50; 207; 189; 0; 0; 0; 1; 115; 82; 71; 66; 0; 174; 206; 28; 233; 0; 0; 0; 68; 101; 88; 73; 102; 77; 77; 0; 42; 0; 0; 0; 8; 0; 1; 135; 105; 0; 4; 0; 0; 0; 1; 0; 0; 0; 26; 0; 0; 0; 0; 0; 3; 160; 1; 0; 3; 0; 0; 0; 1; 0; 1; 0; 0; 160; 2; 0; 4; 0; 0; 0; 1; 0; 0; 0; 10; 160; 3; 0; 4; 0; 0; 0; 1; 0; 0; 0; 10; 0; 0; 0; 0; 59; 120; 184; 245; 0; 0; 0; 113; 73; 68; 65; 84; 24; 25; 133; 143; 203; 13; 128; 48; 12; 67; 147; 94; 97; 30; 24; 0; 198; 134; 1; 96; 30; 56; 151; 56; 212; 85; 68; 17; 88; 106; 243; 241; 235; 39; 42; 183; 114; 137; 12; 106; 73; 236; 105; 98; 227; 152; 6; 193; 42; 114; 40; 214; 126; 50; 52; 8; 74; 183; 108; 158; 159; 243; 40; 253; 186; 75; 122; 131; 64; 0; 160; 192; 168; 109; 241; 47; 244; 154; 152; 112; 237; 159; 252; 105; 64; 95; 48; 61; 12; 3; 61; 167; 244; 38; 33; 43; 148; 96; 3; 71; 8; 102; 4; 43; 140; 164; 168; 250; 23; 219; 242; 38; 84; 91; 18; 112; 63; 0; 0; 0; 0; 73; 69; 78; 68; 174; 66; 96; 130;}))'
    ```
@@ -99,7 +99,7 @@
    <img src="./readme/14.png" />
 <br/>
 
-## 3. Transfering tokens to the principal cannister and claiming our tokens from the website frontend
+## 3. Transfering tokens to the principal canister and claiming our tokens from the website frontend
 
 1. Be present in the window where token folder is present & split the terminal(ctrl+shift+5)
 <br/>
@@ -159,21 +159,21 @@
    <img src="./readme/24.png" />
 <br/>
 
-5. Paste your principal id & cannister id obtained from the previous steps on the following command to transfer NFT to OpenD:
+5. Paste your principal id & canister id obtained from the previous steps on the following command to transfer NFT to OpenD:
    ```
-   dfx canister call <PRINCIPAL-ID> transferOwnership '(principal "<CANNISTER-ID>", true)'
+   dfx canister call <PRINCIPAL-ID> transferOwnership '(principal "<CANISTER-ID>", true)'
    ```
    <img src="./readme/25.png" />
 <br/>
 
-6. Go to the window where token folder is present & get your token cannister id:
+6. Go to the window where token folder is present & get your token canister id:
    ```
    dfx canister id token
    ```
    <img src="./readme/26.png" />
 <br/>
 
-7. Now, Go back to the window where opendD folder is present & go to src/opend_assets/src/components/item.jsx & paste your token cannister you obtained from previous    step on line 165
+7. Now, Go back to the window where opendD folder is present & go to src/opend_assets/src/components/item.jsx & paste your token canister you obtained from previous    step on line 165
    <img src="./readme/28.png" />
 <br/>
 
@@ -187,7 +187,7 @@
    <img src="./readme/30.png" />
 <br/>
 
-3. Click on the buy button to purchase the NFT
+3. Go to the My NFT's section and click on the buy button to purchase the NFT
    <img src="./readme/31.png" />
 <br/>
 
@@ -212,9 +212,3 @@
    <img src="./readme/39.png" />
    <img src="./readme/40.png" />
  
-
-
-   
-
-
-
