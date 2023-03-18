@@ -11,8 +11,7 @@ actor Token {
     // : Principal -> Principal data type to owner variable
     // Principal.fromText() -> Converting text to principal id
 
-    //var owner : Principal = Principal.fromText("<YOUR-PRINCIPAL-ID>");
-    var owner : Principal = Principal.fromText("75yev-lwpux-zhzza-kowin-3fvpa-3ypgs-7737v-ewwrp-4qv4t-z6zwp-aqe");
+    var owner : Principal = Principal.fromText("<YOUR-PRINCIPAL-ID>");
 
     // Supply of our token in 1 billion
     var totalSupply : Nat = 1000000000;
