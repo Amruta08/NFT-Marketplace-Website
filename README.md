@@ -1,6 +1,6 @@
 # To Run & Use the project
 
-<b>You must first have the necessary setup required to run the following project, whose steps can be followed from here :-</b>
+<b>You must first have the necessary setup required to run the following project, whose steps can be followed from here & dfx version 0.9.3 installed :-</b>
 
 <a href="https://docs.google.com/document/d/e/2PACX-1vTNicu-xuf4EiLAehHIqgfpjAnPjzqMGT-xpZVvYaAWNyvzYK_Ceve_me4PVRIxpzH7ea5PAX9NxGwY/pub">Setup for Windows</a>
 <br/>
