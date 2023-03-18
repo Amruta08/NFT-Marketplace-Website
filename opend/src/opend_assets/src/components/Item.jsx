@@ -162,7 +162,7 @@ function Item(props) {
     // create token actor
     const tokenActor = await Actor.createActor(tokenIdlFactory, {
       agent,
-      canisterId: Principal.fromText("qaa6y-5yaaa-aaaaa-aaafa-cai"),
+      canisterId: Principal.fromText("<TOKEN-CANISTER-ID>"),
     });
 
     // get hold of owner id
